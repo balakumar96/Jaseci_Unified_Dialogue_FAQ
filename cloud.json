@@ -1,0 +1,24 @@
+[
+    {
+      "question": "What do you mean by Amazon Web Services (AWS?)",
+      "answer": "Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis."
+    },
+    {
+      "question": "What is Cloud Computing?",
+      "answer": "Cloud Computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet to offer faster innovation, flexible resources, and economies of scale."
+    },
+    {
+      "question": "List down major Cloud Service Providers?",
+      "answer": " 01. Amazon Web Services\n 02. Microsoft Azure\n 03. Google Cloud Platform\n 04. Alibab Cloud"
+    },
+    {
+        "question": "hat are the services offered by AWS?",
+        "answer": " 01. Compute\n 02. Storage\n 03. Database\n 04. Networking & Content Delivery\n 05. Analytics"
+    },
+    {
+        "question": "Why Cloud Computing is important?",
+        "answer": "loud Technology means that companies can scale and adapt at speed and scale, accelerate innovation, drive business agility, streamline operations, and reduce costs."
+    }
+  ]
+
+  
